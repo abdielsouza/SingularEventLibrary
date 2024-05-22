@@ -1,0 +1,5 @@
+if(EXISTS "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/singular[1]_tests.cmake")
+  include("/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/singular[1]_tests.cmake")
+else()
+  add_test(singular_NOT_BUILT singular_NOT_BUILT)
+endif()

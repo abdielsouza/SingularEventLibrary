@@ -1,0 +1,14 @@
+# ninja log v5
+4	12081	1716382456909813369	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	a038e685ed3eac88
+7	8304	1716382531275509308	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	b52dc97bfcd1b72d
+7492	8849	1716383169366090482	singular_test[1]_tests.cmake	f3bc5bb376db3894
+2	17746	1716382462565942333	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	fba6f0d552f156
+19	7492	1716383168006059351	CMakeFiles/singular_test.dir/tests/singular_test.cpp.o	b1b262513822e8c6
+6	23808	1716382614965418785	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	9b6a78ae2deb7f3d
+8462	8886	1716382686955062044	lib/libgmock_main.a	685aef476c43eaae
+26	8027	1716382686091042317	lib/libgtest.a	e21429778cf18d0f
+7492	8849	1716383169366090482	/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/singular_test[1]_tests.cmake	f3bc5bb376db3894
+8027	8461	1716382686531052363	lib/libgmock.a	aed9b9110c6e7301
+7492	8849	1716383169366090482	singular_test	f3bc5bb376db3894
+8028	8572	1716382686607054098	lib/libgtest_main.a	30ececf4ed42069a
+0	132	0	clean	a31eedcededa8236

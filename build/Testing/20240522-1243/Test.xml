@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240522-1243-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="abdiel-Aspire-A315-34"
+	OSRelease="6.5.0-35-generic"
+	OSVersion="#35~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue May  7 09:00:52 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="122"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="3071"
+	TotalPhysicalMemory="3713"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="795.929"
+	>
+	<Testing>
+		<StartDateTime>May 22 12:48 -03</StartDateTime>
+		<StartTestTime>1716392897</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 22 12:48 -03</EndDateTime>
+		<EndTestTime>1716392897</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

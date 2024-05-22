@@ -1,0 +1,7 @@
+get_filename_component(singular_CMAKE_DIR "${CMAKE_CURRENT_LIST_FILE}" PATH)
+
+if (NOT TARGET singular::singular)
+    include("${singular_CMAKE_DIR}/singularTargets.cmake")
+endif()
+
+set(singular_LIBRARIES singular::singular)

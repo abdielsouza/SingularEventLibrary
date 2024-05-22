@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build",
+  "command": "/usr/bin/c++ -I/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/include -I/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/src -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/include -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest -g -std=gnu++20 -o CMakeFiles/singular_test.dir/tests/singular_test.cpp.o -c /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/tests/singular_test.cpp",
+  "file": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/tests/singular_test.cpp"
+},
+{
+  "directory": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build",
+  "command": "/usr/bin/c++ -I/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock/include -I/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/include -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++20 -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build",
+  "command": "/usr/bin/c++ -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock/include -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/include -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++20 -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build",
+  "command": "/usr/bin/c++ -I/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/include -I/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++20 -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build",
+  "command": "/usr/bin/c++ -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/include -isystem /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++20 -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/abdiel/Documentos/vscode-projects/libraries/SingularEventHandler/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]

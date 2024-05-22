@@ -1,0 +1,3 @@
+singular_test.test_event_handler 2 0.0284733
+singular_test.test_multiple_handler_insertion_and_remove 1 0.0108984
+---
